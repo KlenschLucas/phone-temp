@@ -14,7 +14,7 @@
 *Linux* - `apt install git` [deb-based], `dnf install git` [rpm-based]
 
 ##### Step 2 - Clone Package using Git
-*Run* `git clone phone-temp` to clone repository 
+*Run* `git clone https://github.com/klenschlucas/phone-temp.git` to clone repository 
 
 ### Screenshots
 ![Example](example.png  "Example") 
